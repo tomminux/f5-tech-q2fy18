@@ -45,7 +45,7 @@
       "value": "external"
     },
     "externalIpAddressRangeStart": {
-      "value": "10.101.10.150"
+      "value": "10.101.10.100"
     },
     "internalSubnetName": {
       "value": "internal"
