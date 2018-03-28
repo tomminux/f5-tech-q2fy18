@@ -6,7 +6,7 @@
       "value": "f5italy"
     },
     "adminPassword": {
-      "value": "Default2018!"
+      "value": "2018!Default"
     },
     "dnsLabel": {
       "value": "techclub-final-adc"
@@ -45,7 +45,7 @@
       "value": "external"
     },
     "externalIpAddressRangeStart": {
-      "value": "10.101.10.100"
+      "value": "10.101.10.150"
     },
     "internalSubnetName": {
       "value": "internal"
