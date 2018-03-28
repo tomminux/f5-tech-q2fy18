@@ -6,7 +6,7 @@
       "value": "f5italy"
     },
     "adminPassword": {
-      "value": "2018!Default"
+      "value": "Default2018!"
     },
     "dnsLabel": {
       "value": "techclub-final-adc"
@@ -27,7 +27,7 @@
       "value": "LBDAD-CHPUX-BXXXU-XCNMD-IBDBEVR"
     },
     "numberOfExternalIps": {
-      "value": 1
+      "value": 2
     },
     "vnetName": {
       "value": "paoloa-techclub-vnet"
