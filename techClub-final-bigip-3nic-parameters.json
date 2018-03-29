@@ -9,10 +9,10 @@
       "value": "Default2018!"
     },
     "dnsLabel": {
-      "value": "techclub-final-adc"
+      "value": "techclub-demo-adc"
     },
     "instanceName": {
-      "value": "techclub-final-big-ip"
+      "value": "techclub-demo-big-ip"
     },
     "instanceType": {
       "value": "Standard_DS3_v2"
@@ -24,7 +24,7 @@
       "value": "13.1.0200"
     },
     "licenseKey1": {
-      "value": "MFNCO-JSPHW-PLXVE-WPCQW-JTOTICX"
+      "value": "VEYWZ-OETFC-CVBJR-EYWTT-ARJBRZH"
     },
     "numberOfExternalIps": {
       "value": 1
@@ -33,7 +33,7 @@
       "value": "paoloa-techclub-vnet"
     },
     "vnetResourceGroupName": {
-      "value": "paoloa-techclub-final-rg"
+      "value": "paoloa-techclub-demo-rg"
     },
     "mgmtSubnetName": {
       "value": "management"
