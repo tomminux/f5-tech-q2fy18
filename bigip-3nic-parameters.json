@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "f5italy"
+      "value": "__YOUR_ADMIN_USERNAME_HERE__"
     },
     "adminPassword": {
-      "value": "Default2018!"
+      "value": "__YOUR_ADMIN__PASSWORD_HERE__"
     },
     "dnsLabel": {
-      "value": "techclub-adc"
+      "value": "__YOUR_DNS_LABEL_HERE__"
     },
     "instanceName": {
-      "value": "techclub-big-ip"
+      "value": "__YOUR_INSTANCE_NAME_HERE__"
     },
     "instanceType": {
       "value": "Standard_DS3_v2"
@@ -24,16 +24,16 @@
       "value": "13.1.0200"
     },
     "licenseKey1": {
-      "value": "WDBBC-PTCYZ-VCTQD-BWSAA-VKPFRHL"
+      "value": "__YOUR_BYOL_BASE_REG_KEY_HERE__"
     },
     "numberOfExternalIps": {
       "value": 1
     },
     "vnetName": {
-      "value": "paoloa-techclub-vnet"
+      "value": "__YOUR_VNET_NAME_HERE__"
     },
     "vnetResourceGroupName": {
-      "value": "paoloa-techclub-rg"
+      "value": "__YOUR_RESOURCE_GROUP_NAME_HERE__"
     },
     "mgmtSubnetName": {
       "value": "management"
